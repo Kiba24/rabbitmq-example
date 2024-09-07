@@ -1,4 +1,12 @@
 
+# Rabbit MQ Scaffolding
+
+Simple example of an idea of a rabbitmq scaffold, i'm gonna use this as a sketch for one of my college projects.
+
+There are two simple senders and one unique reciever, the reciever gonna act different based on the headers of the recieved message.
+
+
+
 ## Initialize Rabbit server
 
 ```javascript
